@@ -514,23 +514,7 @@
         margin-top: 15px
     }
 </style>
-<script>
-    $("input[type=tel]").intlTelInput({
-        autoFormat: true,
-        autoPlaceholder: "aggressive",
-        defaultCountry: "auto",
-        initialCountry: "auto",
-        separateDialCode: true,
-        geoIpLookup: function(success, failure) {
-            var countryCode = "UA";
-            success(countryCode);
-        },
-        nationalMode: true,
-        hiddenInput: "phone",
-        numberType: "MOBILE",
-        utilsScript: "build/js/utils.js",
-    });
-</script>
+
 
   
 <style>
