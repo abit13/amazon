@@ -1,0 +1,200 @@
+Uri: https://madras-restaurant.com/
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\index.htm
+Content Type: text/html
+
+Uri: https://madras-restaurant.com/land_files/css/bootstrap.min.css
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://madras-restaurant.com/land_files/css/layout.css
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\css\layout.css
+Content Type: text/css
+
+Uri: https://madras-restaurant.com/land_files/favicon.ico
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://madras-restaurant.com/land_files/css/all.css
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\css\all.css
+Content Type: text/css
+
+Uri: https://madras-restaurant.com/build/css/intlTelInput.min.css
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\build\css\intlTelInput.min.css
+Content Type: text/css
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://madras-restaurant.com/land_files/images/logo.png
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\images\logo.png
+Content Type: image/png
+
+Uri: https://madras-restaurant.com/land_files/images/pl.png
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\images\pl.png
+Content Type: image/png
+
+Uri: https://madras-restaurant.com/land_files/media/amazon.mp4
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\media\amazon.mp4
+Content Type: video/mp4
+
+Uri: https://madras-restaurant.com/land_files/fonts/icon_algo.svg
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\icon_algo.svg
+Content Type: image/svg+xml
+
+Uri: https://madras-restaurant.com/land_files/fonts/icon_clock.svg
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\icon_clock.svg
+Content Type: image/svg+xml
+
+Uri: https://madras-restaurant.com/land_files/fonts/icon_user.svg
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\icon_user.svg
+Content Type: image/svg+xml
+
+Uri: https://madras-restaurant.com/land_files/images/app_scr.webp
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\images\app_scr.webp
+Content Type: image/webp
+
+Uri: https://madras-restaurant.com/land_files/images/platform_icons.png
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\images\platform_icons.png
+Content Type: image/png
+
+Uri: https://madras-restaurant.com/land_files/images/85.webp
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\images\85.webp
+Content Type: image/webp
+
+Uri: https://madras-restaurant.com/land_files/images/19.webp
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\images\19.webp
+Content Type: image/webp
+
+Uri: https://madras-restaurant.com/land_files/images/20.webp
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\images\20.webp
+Content Type: image/webp
+
+Uri: https://madras-restaurant.com/land_files/images/security_icons.min.png
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\images\security_icons.min.png
+Content Type: image/png
+
+Uri: https://madras-restaurant.com/land_files/images/footer_logo.webp
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\images\footer_logo.webp
+Content Type: image/webp
+
+Uri: https://madras-restaurant.com/land_files/images/pr.png
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\images\pr.png
+Content Type: image/png
+
+Uri: https://madras-restaurant.com/build/js/intlTelInput-jquery.min.js
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\build\js\intlTelInput-jquery.min.js
+Content Type: application/javascript
+
+Uri: https://madras-restaurant.com/build/js/intlTelInput.min.js
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\build\js\intlTelInput.min.js
+Content Type: application/javascript
+
+Uri: https://madras-restaurant.com/land_files/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://madras-restaurant.com/land_files/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://madras-restaurant.com/land_files/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://madras-restaurant.com/land_files/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://madras-restaurant.com/land_files/css/css.css
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\css\css.css
+Content Type: text/css
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-brands-400.eot
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-brands-400.woff2
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-brands-400.woff
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-brands-400.ttf
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-brands-400.svg
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-regular-400.eot
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-regular-400.woff2
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-regular-400.woff
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-regular-400.ttf
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-regular-400.svg
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-solid-900.eot
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-solid-900.woff2
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-solid-900.woff
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-solid-900.ttf
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://madras-restaurant.com/land_files/fonts/fa-solid-900.svg
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://madras-restaurant.com/build/img/flags.png
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\build\img\flags.png
+Content Type: image/png
+
+Uri: https://madras-restaurant.com/build/img/flags@2x.png
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\build\img\flags@2x.png
+Content Type: image/png
+
+Uri: https://madras-restaurant.com/land_files/fonts/LDIxapCSOBg7S-QT7p4JM-M.ttf
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\LDIxapCSOBg7S-QT7p4JM-M.ttf
+Content Type: font/ttf
+
+Uri: https://madras-restaurant.com/land_files/fonts/LDI2apCSOBg7S-QT7pa8FvOleeI.ttf
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\LDI2apCSOBg7S-QT7pa8FvOleeI.ttf
+Content Type: font/ttf
+
+Uri: https://madras-restaurant.com/land_files/fonts/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDr0fJQ.ttf
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDr0fJQ.ttf
+Content Type: font/ttf
+
+Uri: https://madras-restaurant.com/land_files/fonts/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCGPrQ.ttf
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCGPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://madras-restaurant.com/land_files/fonts/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCGPrQ.ttf
+File Name: C:\Users\shevc\Desktop\madras-restaurant.com\land_files\fonts\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCGPrQ.ttf
+Content Type: font/ttf
+
